@@ -6,7 +6,7 @@ function Home() {
   return (
     <div className='body'>
       <div className="container">
-        <h1>ThreadHub.</h1>
+        <h1>ThreatHub.</h1>
       </div>
     </div>
   );
